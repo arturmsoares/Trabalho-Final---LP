@@ -1,3 +1,5 @@
+//Trabalho Final LP - Artur Machado Soares e Victor Hugo Silva
+
 import java.util.Scanner;
 
 public class Main_funcoes{
